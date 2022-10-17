@@ -1,7 +1,7 @@
 
 # First steps in data science
 
-In this workshop we will be looking at how to use the [**command line**](https://en.wikipedia.org/wiki/Command-line_interface) and [**R*Studio*](https://www.rstudio.com/) to do some useful analysis of data derived from bacterial genomic sequence.
+In this workshop we will be looking at how to use the [**command line**](https://en.wikipedia.org/wiki/Command-line_interface) and [**RStudio**](https://www.rstudio.com/) to do some useful analysis of data derived from bacterial genomic sequence.
 
 More specifically we will:
 
