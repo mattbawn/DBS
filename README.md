@@ -73,12 +73,9 @@ type `grep "MEAN" *.dbs > deltaBS_mean.txt`
 
 ## Further Exploration
 
----
-
 Commands like `mkdir` and `rm` can also be used to work with files and folders in linux.  `mkdir` is used to create a new directory, and `rm` is used to remove a file or directory.
 
 Additionally, the `cp` and `mv` command can be used to copy and move files and directories, respectively.
 
----
 
 
