@@ -27,10 +27,10 @@ We can also see what files are there.
 type `ls`
 **ls** is a command to *list* computer files and directories.
 
-We can see there are two folders:
- `DBS_results_1` and `DBS_results_2`. 
+We can see there is a folder:
+ `DBS_files`.
 
-type ` cd DBS_results_1`
+type ` cd DBS_files`
 **cd** or *change directory* lets us move into a different space.
 
 To check we have moved:
