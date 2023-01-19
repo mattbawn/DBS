@@ -71,6 +71,8 @@ but we want a file
 
 type `grep "MEAN" *.dbs > deltaBS_mean.txt`
 
+> **_Next_** Now we have our file we can [combine this data with some other data types](merge_data_in_R.md)
+
 ## Further Exploration
 
 Commands like `mkdir` and `rm` can also be used to work with files and folders in linux.  `mkdir` is used to create a new directory, and `rm` is used to remove a file or directory.
