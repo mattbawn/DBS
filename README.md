@@ -51,8 +51,9 @@ type `ls | wc -l`
 
 type `man wc`
 
-**_Activity:_**  Discuss the data.
-
+---
+> **_Activity:_**  Discuss the data.
+---
  
 
 ### autocomplete
