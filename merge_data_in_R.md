@@ -2,10 +2,11 @@
 `metadata <- read.csv("samples-overview-representative_host.csv")`
 
 
-#BAPS <- read.csv("baps_data_3lev.txt")
+`#BAPS <- read.csv("baps_data_3lev.txt")`
 
 # we need to load the BAPS data in a different way
-```BAPS <- read.table("baps_data_3lev.txt", 
+```
+BAPS <- read.table("baps_data_3lev.txt", 
                     sep = "\t",
                     header = T)
 ```
@@ -14,7 +15,8 @@
 `BAPS$SampleID <- gsub("mysnps_", "", BAPS$SampleID)`
 
 # Create a new merged metadata file
-```new.metadata <- merge(metadata, BAPS,   # Files to merge 
+```
+new.metadata <- merge(metadata, BAPS,   # Files to merge 
                       by.x = "V2",      # column to merge by
                       by.y = "SampleID",# column to merge by
                       all.x = TRUE)     # which data controls shape
