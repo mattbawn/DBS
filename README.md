@@ -51,6 +51,10 @@ type `ls | wc -l`
 
 type `man wc`
 
+Let's see whats in a file
+
+type `less deltaBS_1.dbs`
+
 ---
 > **_Activity:_**  Discuss the data.
 ---
