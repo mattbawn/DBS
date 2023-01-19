@@ -1,6 +1,10 @@
 # Merging Metadata Files
 
-### Load master metadata table NOTE: its a csv file
+In this example you will use RStudio to load some different metadata tables and merge them to form a combined metadata table.
+
+---
+
+### Load master metadata table NOTE: its a [csv file](https://www.howtogeek.com/348960/what-is-a-csv-file-and-how-do-i-open-it/)
 `metadata <- read.csv("samples-overview-representative_host.csv")`
 
 
