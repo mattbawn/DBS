@@ -69,15 +69,12 @@ but we want a file
 
 type `grep "MEAN" *.dbs > deltaBS_mean.txt`
 
+## Further Exploration
 
-### autocomplete
+---
 
+Look at the `mv` `rm` and `cp` commands
 
-
-## Rename a file
-
-
-
-## Delete a file
+---
 
 
