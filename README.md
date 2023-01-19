@@ -56,11 +56,19 @@ Let's see whats in a file
 type `less deltaBS_1.dbs`
 
 ---
-> **_Activity_**  Discuss the data.
+> **_Activity:_**  Discuss the data.
 
-> **_Aim_** We want a seperate file that contains the mean DBS value for each sample
+> **_Aim:_** We want a seperate file that contains the mean DBS value for each sample
 ---
  
+type `grep "MEAN" *.dbs`
+
+*Question: What is the output?*
+
+but we want a file
+
+type `grep "MEAN" *.dbs > deltaBS_mean.txt`
+
 
 ### autocomplete
 
