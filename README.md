@@ -6,7 +6,7 @@ In this workshop we will be looking at how to use the [**command line**](https:/
 More specifically we will:
 
 1. Use the **command line** to look at and manipulate some [***metadata***](https://en.wikipedia.org/wiki/Metadata).
-2. Use **RStudio** to explore and edit the *metadata*.
+2. Use **RStudio** to [explore and edit the *metadata*](merge_data_in_R.md).
 3. Reproduce a figure from a [paper](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008850#sec025)  in **RStudio** using the data.
 
 # Command line
