@@ -41,6 +41,16 @@ what is here:
 
 type `ls`
 
+***How many files are there?***
+
+type 'ls | wc -l'
+
+***What does the console output read?***
+
+*** so what are | and wc ?***
+
+
+
  
 
 ### autocomplete
