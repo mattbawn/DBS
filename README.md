@@ -41,17 +41,17 @@ what is here:
 
 type `ls`
 
-***How many files are there?***
+*Question: How many files are there?*
 
 type `ls | wc -l`
 
-***What does the console output read?***
+*Question: What does the console output read?*
 
-***so what are `|` and `wc`?***
+*Question: so what are `|` and `wc`?*
 
 type `man wc`
 
-
+**_Activity:_**  Discuss the data.
 
  
 
