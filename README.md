@@ -47,7 +47,7 @@ type 'ls | wc -l'
 
 ***What does the console output read?***
 
-*** so what are | and wc ?***
+*** so what are '|' and 'wc'?***
 
 
 
