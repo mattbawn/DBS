@@ -15,7 +15,9 @@ The command line is a text-based application for viewing, handling, and manipula
 
 ## Files and folders
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+Files in Linux are identified by their names, which can include letters, numbers, and other characters. They can be text files, binary files, or executable files, and they are stored on the file system in a specific location.
+
+Folders, also known as directories, are used to organize files and other directories. A directory can contain any number of files and other directories, and it is identified by its name. Directories can be created, renamed, and deleted just like files.
 
 ## moving around
 
@@ -73,7 +75,9 @@ type `grep "MEAN" *.dbs > deltaBS_mean.txt`
 
 ---
 
-Look at the `mv` `rm` and `cp` commands
+Commands like `mkdir` and `rm` can also be used to work with files and folders in linux.  `mkdir` is used to create a new directory, and `rm` is used to remove a file or directory.
+
+Additionally, the `cp` and `mv` command can be used to copy and move files and directories, respectively.
 
 ---
 
