@@ -56,7 +56,8 @@ Let's see whats in a file
 type `less deltaBS_1.dbs`
 
 ---
-> **_Activity:_**  Discuss the data.
+> **_Activity_**  Discuss the data.
+> **_Aim_** We want a seperate file that contains the mean DBS value for each sample
 ---
  
 
